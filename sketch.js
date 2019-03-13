@@ -15,13 +15,13 @@ var bodyx = 348;
 
 
 function preload() {
-    // buttons=loadImage("textbox.jpg");
-    // hair=loadImage("hair.jpf");
-    // eyes=loadImage("eyes.jpf");
-    // mouth=loadImage("mouth.jpf");
-    // extra=loadImage("bonus.jpf");
-    // skin=loadImage("skin.jpf");
-    body = loadImage("body.jpg");
+    buttons = loadImage("images/textbox.jpg");
+    hair = loadImage("images/hair.png");
+    eyes = loadImage("images/eyes.png");
+    mouth = loadImage("images/mouth.png");
+    extra = loadImage("images/bonus.png");
+    skin = loadImage("images/skin.png");
+    body = loadImage("images/body.png");
 
 
 }
